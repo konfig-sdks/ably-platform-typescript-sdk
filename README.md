@@ -42,7 +42,7 @@ The [REST API specification](https://www.ably.io/documentation/rest-api) for Abl
 
 ## Installation<a id="installation"></a>
 <div align="center">
-  <a href="https://konfigthis.com/sdk-sign-up?company=Ably&serviceName=Platform&language=TypeScript">
+  <a href="https://konfigthis.com/sdk-sign-up?company=Ably&%20serviceName=Platform%20&language=TypeScript">
     <img src="https://raw.githubusercontent.com/konfig-dev/brand-assets/HEAD/cta-images/typescript-cta.png" width="70%">
   </a>
 </div>
